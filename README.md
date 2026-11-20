@@ -14,32 +14,32 @@ Clique sur le badge **Open in Colab** en haut d'un notebook pour l'exécuter dan
 
 | Mini-cours | Notebook |
 |---|---|
-| [Régression Logistique : Pourquoi la Sigmoïde (et pas une autre) ?](https://www.monshotdata.com/p/regression-logistique-sigmoide) | [`regression-logistique-sigmoide/`](regression-logistique-sigmoide) |
-| [Comprendre enfin pourquoi le bagging marche (et pas seulement comment)](https://www.monshotdata.com/p/bagging) | [`bagging/`](bagging) |
+| [Régression Logistique : Pourquoi la Sigmoïde (et pas une autre) ?](https://www.monshotdata.com/p/regression-logistique-sigmoide) | [`ml-classique-et-deep-learning/regression-logistique-sigmoide/`](ml-classique-et-deep-learning/regression-logistique-sigmoide) |
+| [Comprendre enfin pourquoi le bagging marche (et pas seulement comment)](https://www.monshotdata.com/p/bagging) | [`ml-classique-et-deep-learning/bagging/`](ml-classique-et-deep-learning/bagging) |
 
 **2.2 Régression et classification**
 
 | Mini-cours | Notebook |
 |---|---|
-| [Modèles Linéaires Généralisés (GLM) : la régression linéaire réinventée](https://www.monshotdata.com/p/modeles-lineaires-generalises-glm) | [`modeles-lineaires-generalises-glm/`](modeles-lineaires-generalises-glm) |
-| [Le tuning d'hyperparamètres (mais sans migraine)](https://www.monshotdata.com/p/tuning-hyperparametres) | [`tuning-hyperparametres/`](tuning-hyperparametres) |
-| [Booste tes modèles ML sans changer d'algorithme (Partie 2)](https://www.monshotdata.com/p/techniques-ml-avancees-focal-loss-breathing-kmeans-features-cycliques) | [`techniques-ml-avancees-focal-loss-breathing-kmeans-features-cycliques/`](techniques-ml-avancees-focal-loss-breathing-kmeans-features-cycliques) |
-| [CORAL : comment forcer tes réseaux de neurones à respecter l'ordre naturel des classes](https://www.monshotdata.com/p/coral-classification-ordinale-pytorch) | [`coral-classification-ordinale-pytorch/`](coral-classification-ordinale-pytorch) |
+| [Modèles Linéaires Généralisés (GLM) : la régression linéaire réinventée](https://www.monshotdata.com/p/modeles-lineaires-generalises-glm) | [`ml-classique-et-deep-learning/modeles-lineaires-generalises-glm/`](ml-classique-et-deep-learning/modeles-lineaires-generalises-glm) |
+| [Le tuning d'hyperparamètres (mais sans migraine)](https://www.monshotdata.com/p/tuning-hyperparametres) | [`ml-classique-et-deep-learning/tuning-hyperparametres/`](ml-classique-et-deep-learning/tuning-hyperparametres) |
+| [Booste tes modèles ML sans changer d'algorithme (Partie 2)](https://www.monshotdata.com/p/techniques-ml-avancees-focal-loss-breathing-kmeans-features-cycliques) | [`ml-classique-et-deep-learning/techniques-ml-avancees-focal-loss-breathing-kmeans-features-cycliques/`](ml-classique-et-deep-learning/techniques-ml-avancees-focal-loss-breathing-kmeans-features-cycliques) |
+| [CORAL : comment forcer tes réseaux de neurones à respecter l'ordre naturel des classes](https://www.monshotdata.com/p/coral-classification-ordinale-pytorch) | [`ml-classique-et-deep-learning/coral-classification-ordinale-pytorch/`](ml-classique-et-deep-learning/coral-classification-ordinale-pytorch) |
 
 **2.3 Clustering et réduction de dimension**
 
 | Mini-cours | Notebook |
 |---|---|
-| [Comprendre les Modèles de Mélange Gaussien (GMMs)](https://www.monshotdata.com/p/modeles-melange-gaussien-gmm) | [`modeles-melange-gaussien-gmm/`](modeles-melange-gaussien-gmm) |
-| [DBSCAN++ : Passe ton Clustering à l'échelle supérieure](https://www.monshotdata.com/p/dbscan-plus-plus-clustering-scalable) | [`dbscan-plus-plus-clustering-scalable/`](dbscan-plus-plus-clustering-scalable) |
-| [t-SNE depuis Zéro (Partie 2)](https://www.monshotdata.com/p/formulation-implementation-algorithme-t-sne-partie-2) | [`formulation-implementation-algorithme-t-sne-partie-2/`](formulation-implementation-algorithme-t-sne-partie-2) |
+| [Comprendre les Modèles de Mélange Gaussien (GMMs)](https://www.monshotdata.com/p/modeles-melange-gaussien-gmm) | [`ml-classique-et-deep-learning/modeles-melange-gaussien-gmm/`](ml-classique-et-deep-learning/modeles-melange-gaussien-gmm) |
+| [DBSCAN++ : Passe ton Clustering à l'échelle supérieure](https://www.monshotdata.com/p/dbscan-plus-plus-clustering-scalable) | [`ml-classique-et-deep-learning/dbscan-plus-plus-clustering-scalable/`](ml-classique-et-deep-learning/dbscan-plus-plus-clustering-scalable) |
+| [t-SNE depuis Zéro (Partie 2)](https://www.monshotdata.com/p/formulation-implementation-algorithme-t-sne-partie-2) | [`ml-classique-et-deep-learning/formulation-implementation-algorithme-t-sne-partie-2/`](ml-classique-et-deep-learning/formulation-implementation-algorithme-t-sne-partie-2) |
 
 **2.4 Architectures et entraînement en Deep Learning**
 
 | Mini-cours | Notebook |
 |---|---|
-| [KAN from scratch : implémentation complète en PyTorch](https://www.monshotdata.com/p/implementer-kan-from-scratch-pytorch) | [`implementer-kan-from-scratch-pytorch/`](implementer-kan-from-scratch-pytorch) |
-| [Apprentissage Fédéré : Entraîne l'IA, Sécurise les Données](https://www.monshotdata.com/p/guide-pratique-apprentissage-federe) | [`guide-pratique-apprentissage-federe/`](guide-pratique-apprentissage-federe) |
+| [KAN from scratch : implémentation complète en PyTorch](https://www.monshotdata.com/p/implementer-kan-from-scratch-pytorch) | [`ml-classique-et-deep-learning/implementer-kan-from-scratch-pytorch/`](ml-classique-et-deep-learning/implementer-kan-from-scratch-pytorch) |
+| [Apprentissage Fédéré : Entraîne l'IA, Sécurise les Données](https://www.monshotdata.com/p/guide-pratique-apprentissage-federe) | [`ml-classique-et-deep-learning/guide-pratique-apprentissage-federe/`](ml-classique-et-deep-learning/guide-pratique-apprentissage-federe) |
 
 ### [Bonnes pratiques d'ingénierie](https://www.monshotdata.com/mini-cours/bonnes-pratiques-ingenierie)
 
@@ -48,7 +48,7 @@ Clique sur le badge **Open in Colab** en haut d'un notebook pour l'exécuter dan
 
 | Mini-cours | Notebook |
 |---|---|
-| [Compression de modèles : un levier clé pour un ML efficace](https://www.monshotdata.com/p/compression-modeles-machine-learning-efficace) | [`compression-modeles-machine-learning-efficace/`](compression-modeles-machine-learning-efficace) |
+| [Compression de modèles : un levier clé pour un ML efficace](https://www.monshotdata.com/p/compression-modeles-machine-learning-efficace) | [`bonnes-pratiques-ingenierie/compression-modeles-machine-learning-efficace/`](bonnes-pratiques-ingenierie/compression-modeles-machine-learning-efficace) |
 
 ### [LLM & fine-tuning](https://www.monshotdata.com/mini-cours/llm-fine-tuning)
 
@@ -57,13 +57,13 @@ Clique sur le badge **Open in Colab** en haut d'un notebook pour l'exécuter dan
 
 | Mini-cours | Notebook |
 |---|---|
-| [Bases de données vectorielles : index avancés et pratique (Partie 2)](https://www.monshotdata.com/p/bases-de-donnees-vectorielles-partie-2) | [`bases-de-donnees-vectorielles-partie-2/`](bases-de-donnees-vectorielles-partie-2) |
+| [Bases de données vectorielles : index avancés et pratique (Partie 2)](https://www.monshotdata.com/p/bases-de-donnees-vectorielles-partie-2) | [`llm-fine-tuning/bases-de-donnees-vectorielles-partie-2/`](llm-fine-tuning/bases-de-donnees-vectorielles-partie-2) |
 
 Les notebooks avec un exercice (bagging, t-SNE) existent en deux versions : `-exercice` (à compléter) et `-solution`.
 
 ## Organisation
 
-Un dossier par mini-cours, nommé comme son adresse sur MonShotData. Il contient le notebook et, si besoin, ses données (`*.pkl`, `*.pickle`, images). Les notebooks téléchargent eux-mêmes leurs données depuis ce dépôt : tu n'as rien à préparer.
+Un dossier par cours (`ml-classique-et-deep-learning`, `bonnes-pratiques-ingenierie`, `llm-fine-tuning`), nommé comme sa page sur MonShotData. À l'intérieur, un dossier par mini-cours, nommé comme son adresse : il contient le notebook et, si besoin, ses données (`*.pkl`, `*.pickle`, images). Les notebooks téléchargent eux-mêmes leurs données depuis ce dépôt : tu n'as rien à préparer.
 
 ## Droits d'utilisation
 
