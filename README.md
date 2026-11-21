@@ -4,6 +4,8 @@ Les notebooks qui accompagnent les mini-cours de [MonShotData](https://www.monsh
 
 Clique sur le badge **Open in Colab** en haut d'un notebook pour l'exécuter dans ton navigateur, sans rien installer. Chaque notebook commence par un court « Avant de lancer » qui indique ce dont il a besoin (CPU suffisant, données téléchargées automatiquement, etc.).
 
+Exception : les notebooks du mini-cours « Spark et Databricks » s'exécutent dans Databricks (édition gratuite), pas dans Colab. Pour les ouvrir : dans Databricks, Workspace → Import, puis dépose le fichier `.ipynb`.
+
 ## Les notebooks
 
 
@@ -49,6 +51,16 @@ Clique sur le badge **Open in Colab** en haut d'un notebook pour l'exécuter dan
 | Mini-cours | Notebook |
 |---|---|
 | [Compression de modèles : un levier clé pour un ML efficace](https://www.monshotdata.com/p/compression-modeles-machine-learning-efficace) | [`bonnes-pratiques-ingenierie/compression-modeles-machine-learning-efficace/`](bonnes-pratiques-ingenierie/compression-modeles-machine-learning-efficace) |
+
+**1.4 Passage à l'échelle et calcul distribué**
+
+| Mini-cours | Notebook |
+|---|---|
+| [Spark et Databricks : du big data à ton premier notebook PySpark (Partie 1)](https://www.monshotdata.com/p/spark-databricks-calcul-distribue-partie-1) | [`bonnes-pratiques-ingenierie/spark-databricks-calcul-distribue-partie-1/`](bonnes-pratiques-ingenierie/spark-databricks-calcul-distribue-partie-1) |
+| [Spark et Databricks : créer, lire et écrire des DataFrames PySpark (Partie 2)](https://www.monshotdata.com/p/spark-databricks-dataframes-pyspark-partie-2) | [`bonnes-pratiques-ingenierie/spark-databricks-dataframes-pyspark-partie-2/`](bonnes-pratiques-ingenierie/spark-databricks-dataframes-pyspark-partie-2) |
+| [Spark et Databricks : maîtriser colonnes, lignes et tris en PySpark (Partie 3)](https://www.monshotdata.com/p/spark-databricks-colonnes-lignes-tris-partie-3) | [`bonnes-pratiques-ingenierie/spark-databricks-colonnes-lignes-tris-partie-3/`](bonnes-pratiques-ingenierie/spark-databricks-colonnes-lignes-tris-partie-3) |
+| [Spark et Databricks : agrégations, jointures et fonctions de fenêtre en PySpark (Partie 4)](https://www.monshotdata.com/p/spark-databricks-agregations-jointures-fenetres-partie-4) | [`bonnes-pratiques-ingenierie/spark-databricks-agregations-jointures-fenetres-partie-4/`](bonnes-pratiques-ingenierie/spark-databricks-agregations-jointures-fenetres-partie-4) |
+| [Spark et Databricks : le Machine Learning à grande échelle avec MLlib (Partie 5)](https://www.monshotdata.com/p/spark-databricks-machine-learning-mllib-partie-5) | [`bonnes-pratiques-ingenierie/spark-databricks-machine-learning-mllib-partie-5/`](bonnes-pratiques-ingenierie/spark-databricks-machine-learning-mllib-partie-5) |
 
 ### [LLM & fine-tuning](https://www.monshotdata.com/mini-cours/llm-fine-tuning)
 
